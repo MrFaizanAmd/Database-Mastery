@@ -1,1 +1,1 @@
-# Database-Mastery
+# Database Mastery
